@@ -1,0 +1,10 @@
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.csprojAssemblyReference.cache
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.Properties.Resources.resources
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.csproj.GenerateResource.cache
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.csproj.CoreCompileInputs.cache
+C:\Users\jai sainath\source\repos\calc1\calc1\bin\Debug\calc1.exe.config
+C:\Users\jai sainath\source\repos\calc1\calc1\bin\Debug\calc1.exe
+C:\Users\jai sainath\source\repos\calc1\calc1\bin\Debug\calc1.pdb
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.exe
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.pdb
+C:\Users\jai sainath\source\repos\calc1\calc1\obj\Debug\calc1.Calculator.resources
